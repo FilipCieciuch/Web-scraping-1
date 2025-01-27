@@ -29,7 +29,7 @@ The project utilized the following tools and technologies:
 3. **Data Visualization**:
    - The CSV file is imported into Tableau.
    - An interactive dashboard is created to display the distribution of centers across Poland. Users can view the data geographically and explore city-specific details.
-   - The dashboard is available at [Tableau Dashboard](https://public.tableau.com/app/profile/filip.cieciuch/viz/OrodkiwPolsce/Dashboard1).
+   - The dashboard is available at [Tableau Dashboard](https://public.tableau.com/app/profile/filip.cieciuch/viz/OrodkiwPolsce/Dashboard1), and [here](/Dashboard.png)
 
 ## What I Learned
 Through this project, I gained insights into:
