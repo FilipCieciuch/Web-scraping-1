@@ -1,4 +1,4 @@
-# Project: Web Scraping and Visualization of Centers in Poland
+# Project: Web Scraping and Data Visualization
 
 ## Introduction
 This project combines web scraping with data visualization to analyze the distribution of therapeutic centers in Poland. These centers specialize in providing auditory integration therapy and related services, supporting individuals with various auditory and developmental challenges. By extracting data from a publicly available website and visualizing it using Tableau, the project aims to offer valuable insights into the geographic spread of these facilities.
@@ -29,7 +29,10 @@ The project utilized the following tools and technologies:
 3. **Data Visualization**:
    - The CSV file is imported into Tableau.
    - An interactive dashboard is created to display the distribution of centers across Poland. Users can view the data geographically and explore city-specific details.
-   - The dashboard is available at [Tableau Dashboard](https://public.tableau.com/app/profile/filip.cieciuch/viz/OrodkiwPolsce/Dashboard1), and [here](/Dashboard.png)
+   - You can explore the dashboard interactively at [Tableau Dashboard](https://public.tableau.com/app/profile/filip.cieciuch/viz/OrodkiwPolsce/Dashboard1).
+   - Additionally, a static PNG of the dashboard is shown below for a quick overview:
+
+   ![Dashboard](Dashboard.png)
 
 ## What I Learned
 Through this project, I gained insights into:
